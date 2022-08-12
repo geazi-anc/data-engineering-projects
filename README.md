@@ -1,6 +1,6 @@
 # data-engineering-projects: apache Spark, Airflow, Kafka, data pipeline
 
-Este é um portifólio onde encontra-se uma breve introdução de todos os projetos de engenharia de dados desenvolvidos durante os estudos nesta área. O portifólio é atualizado regularmente com novos projetos desenvolvidos.
+Este é um portfólio onde encontra-se uma breve introdução de todos os projetos de engenharia de dados desenvolvidos durante os estudos nesta área. O portfólio é atualizado regularmente na medida que novos projetos forem desenvolvidos.
 
 Caso haja qualquer dúvida, você pode me contactar diretamente através de meu LinkedIn [](https://br.linkedin.com/in/geazi-antunes-aa9264163).
 
