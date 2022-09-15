@@ -37,6 +37,20 @@ Tecnologias utilizadas:
 
 Para saber mais sobre o desenvolvimento, confira o repositório completo do projeto [aqui](https://github.com/geazi-anc/dracula).
 
+## Introdução_à_análise_de_dados_com_PySpark_utilizando_os_dados_dos_campeões_de_League_of_Legends
+
+O League of Legends, também conhecido como lolzinho, para os íntimos, é um jogo ambientado no mundo fantasioso de Runeterra, com batalhas sangrentas e muita magia. Em League of Legends, os jogadores controlam personagens conhecidos como campeões, cada um com suas habilidades e diferentes estilos de jogo.
+
+Neste artigo, irei ensinar como desenvolver um notebook para a análise de algumas estatísticas desses campeões fazendo o uso do PySpark, um framework para a análise de dados.
+
+Tecnologias utilizadas:
+
+- PySpark: análise de dados;
+- Google Colab: desenvolvimento do notebook;
+- Requests: extração de dados por meio da API pública da Riot Games;
+
+O artigo pode ser conferido na íntegra [aqui](https://dev.to/geazi_anc/introducao-a-analise-de-dados-com-pyspark-utilizando-os-dados-dos-campeoes-de-league-of-legends-5cj9) 😉.
+
 ## Pokemonsflow: a data pipeline development with Airflow to extract pokemons via API
 
 Desenvolvimento de uma pipeline de dados para extrair os famosos monstrinhos de bolso, os pokemons, da API PokeAPI. Depois da extração será aplicado algumas transformações bem simples nos dados para que, por fim, possam ser salvos localmente, simulando o carregamento dos dados em um data warehouse.
